@@ -78,6 +78,8 @@ export default function Analise() {
           flexDirection: "column",
           gap: "1rem",
           overflowY: "auto",
+          borderRadius:"10px"
+
         }}
       >
         <Box
