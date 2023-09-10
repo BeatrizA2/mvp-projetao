@@ -82,7 +82,7 @@ export default function AppLayout() {
                         <Link href="#basics" fontWeight="lg">
                             Novo Caso
                         </Link>
-                        <Link href="#basics" fontWeight="lg">
+                        <Link href="/app/analise" fontWeight="lg">
                             Analise
                         </Link>
                         <Link href="#basics" fontWeight="lg">
